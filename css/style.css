@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Righteous&family=Staatliches&display=swap');
+.mt-20 {
+	margin-top: 20px;
+}
+footer {
+	height: 80px;
+	margin-top: 50px;
+}
+footer>.container, footer .row {
+	height: 100%;
+}
+
+.slider-edit{
+	box-shadow: 2px 2px 5px 3px rgb(172, 166, 166);
+	border-radius: 20px;
+}
+
+.row .content{
+	position: absolute;
+	bottom: 0;
+	background: rgb(0, 0, 0); /* Fallback color */
+	background: rgba(22, 134, 168, 0.603); /* Black background with 0.5 opacity */
+	color: #f1f1f1;
+	width: 100%;
+	padding: 10px;
+	text-align: center;
+	border-radius: 20px;
+}
+
+.head1{
+	font-family: 'Staatliches', cursive;
+	text-align: center;
+	font-size: 60px;
+	margin-top: 10px;
+	background-color: black;
+	color: whitesmoke;
+}
+
+.navicon
+{
+	font-family: 'Righteous', cursive
+}
+
+.paradiv{
+	margin-top: 20px;
+}
+
+.paradiv p{
+	font-size: 20px;
+    font-style: italic;
+}
